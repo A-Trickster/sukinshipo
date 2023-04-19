@@ -1,5 +1,5 @@
 # We are making battleship alternative game- that is single player
 #
-# fernando is bad
+print("Hello World")
+
 # Time for cookies
-hello
